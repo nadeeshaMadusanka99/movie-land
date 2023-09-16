@@ -1,6 +1,6 @@
 # Movie Master
 
-Movie Master is a React-based web application that allows users to search for their favorite films and view a list of all the movies released under that name. It uses the OMDB API to fetch movie data.
+Movie Master is a React-based web application that is responsive for tabs and mobiles as well and allows users to search for their favorite films and view a list of all the movies released under that name. It uses the OMDB API to fetch movie data.
 
 ## Getting Started
 
